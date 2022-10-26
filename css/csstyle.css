@@ -24,27 +24,13 @@ a:hover{
     text-decoration: none;
 }
 
-.mainkepek{
-    width: 400px;
-}
-
 .dologegy{
-    background:linear-gradient(to right,white 3%,black 20%);
+    background-color: black;
     color: white;
     border-radius: 10px;
 }
 
 .dologegy:hover{
-    border: 5px grey solid;
-}
-
-.dologketo{
-    background:linear-gradient(to left,white 3%,black 20%);
-    color: white;
-    border-radius: 10px;
-}
-
-.dologketo:hover{
     border: 5px grey solid;
 }
 
