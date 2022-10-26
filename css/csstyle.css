@@ -55,3 +55,36 @@ footer{
     color: white;
     font-size: 80%;
 }
+
+.kombinator{
+    width: 450px;
+    border: black 3px solid;
+    border-radius: 10px;
+}
+
+.kombinator:hover
+
+{
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.wiki{
+    height: 300px;
+}
+
+tr{
+    border: black solid 2px;
+}
+
+td{
+    text-align: center;
+}
